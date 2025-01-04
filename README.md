@@ -1,0 +1,1 @@
+This repository contains a bug report for the Expo CLI. The bug occurs when building an app that uses React Navigation. The error message is not very helpful and doesn't provide any information on how to fix it. This repository contains a minimal reproducible example of the bug, as well as a solution. 
